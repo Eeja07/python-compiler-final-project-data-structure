@@ -1,0 +1,6 @@
+a = 1
+ulang1:
+a=a+1
+cetak(a)
+jika a < 5:
+goto ulang1

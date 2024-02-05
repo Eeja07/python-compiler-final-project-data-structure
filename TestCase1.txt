@@ -1,0 +1,8 @@
+a = 5
+b = 10
+c = 20
+d = a + b + c + 5
+cetak(d)
+cetak(d/2)
+jika d > 10:
+cetak("Benar")
